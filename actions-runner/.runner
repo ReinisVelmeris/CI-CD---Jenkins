@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 21,
+  "agentName": "DESKTOP-35MS6Q1",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus8.actions.githubusercontent.com/Y1a1HjQkzMnF0T3m484cvG8IAjfKspxWdKxFbd10AGuzx5Naxc/",
+  "gitHubUrl": "https://github.com/ReinisVelmeris/CI-CD---Jenkins",
+  "workFolder": "_work"
+}
